@@ -11,7 +11,7 @@ ave_inflammation = np.mean(
 plt.plot(ave_inflammation)
 print('Hello')
 import matplotlib as plt 
-ave_inflammation = np.mean(
+max_inflammation = np.mean(
 	data,
 	axis=0
 )
